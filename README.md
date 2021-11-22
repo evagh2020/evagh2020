@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @evagh2020
 - 👀 I’m interested in Biometrics
-- 🌱 I’m currently learning Cyber Security
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Phyton projects
 - 📫 How to reach me ...
 
